@@ -1,0 +1,29 @@
+HTTrack3.48-22+htsswf+htsjava launched on Thu, 07 Sep 2017 13:53:55 at http://7oroof.com/tfdemos/whole/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://7oroof.com/tfdemos/whole/index.html -O1 "C:\My Web Sites\meee" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:57:25	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/images/favicon/favicon.ico (from 7oroof.com/tfdemos/whole/index.html)
+14:15:22	Warning: 	File not parsed, looks like binary: 7oroof.com/tfdemos/whole/assets/fonts/fontawesome-webfont.woff2?v=4.6.3
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/fonts/fontawesome-webfont.svg?v=4.6.3 (from 7oroof.com/tfdemos/whole/assets/css/external.css)
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/css/fonts/Stroke-Gap-Icons.eot (from 7oroof.com/tfdemos/whole/assets/css/external.css)
+14:15:22	Warning: 	File not parsed, looks like binary: 7oroof.com/tfdemos/whole/assets/css/fonts/Linearicons-Free.woff2?w118d
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/css/fonts/Linearicons-Free.svg?w118d (from 7oroof.com/tfdemos/whole/assets/css/external.css)
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/css/owl.video.play.png (from 7oroof.com/tfdemos/whole/assets/css/external.css)
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/css/font/ytp-regular.eot (from 7oroof.com/tfdemos/whole/assets/css/external.css)
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/fonts/glyphicons-halflings-regular.eot (from 7oroof.com/tfdemos/whole/assets/css/bootstrap.min.css)
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/fonts/glyphicons-halflings-regular.eot? (from 7oroof.com/tfdemos/whole/assets/css/bootstrap.min.css)
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/fonts/glyphicons-halflings-regular.woff2 (from 7oroof.com/tfdemos/whole/assets/css/bootstrap.min.css)
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/fonts/glyphicons-halflings-regular.woff (from 7oroof.com/tfdemos/whole/assets/css/bootstrap.min.css)
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/fonts/glyphicons-halflings-regular.ttf (from 7oroof.com/tfdemos/whole/assets/css/bootstrap.min.css)
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/fonts/glyphicons-halflings-regular.svg (from 7oroof.com/tfdemos/whole/assets/css/bootstrap.min.css)
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/assets/css/polina.jpg (from 7oroof.com/tfdemos/whole/assets/css/style.css)
+14:15:22	Warning: 	File not parsed, looks like binary: 7oroof.com/tfdemos/whole/assets/revolution/css/openhand.cur
+14:15:22	Warning: 	File not parsed, looks like binary: 7oroof.com/tfdemos/whole/assets/revolution/css/closedhand.cur
+14:15:22	Error: 	"Not Found" (404) at link 7oroof.com/tfdemos/whole/blog-carousel-2.html (from 7oroof.com/tfdemos/whole/home-portfolio-sidebar.html)
+
+HTTrack Website Copier/3.48-22 mirror complete in 27 minutes 20 seconds : 627 links scanned, 612 files written (47912428 bytes overall) [40599809 bytes received at 24755 bytes/sec], 8840837 bytes transferred using HTTP compression in 194 files, ratio 15%, 2.0 requests per connection
+(14 errors, 4 warnings, 0 messages)
