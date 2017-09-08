@@ -55,9 +55,9 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<a class="logo" href="index.html">
-					<img class="logo-light" src="whole/assets/images/logo/logo-light.png" alt="Whole logo">
-					<img class="logo-dark" src="whole/assets/images/logo/logo-dark.png" alt="Whole logo">
+				<a class="logo" href="#">
+					<img class="logo-light" src="whole/assets/images/logo/logo-light.jpg" alt="Whole logo">
+					<img class="logo-dark" src="whole/assets/images/logo/logo-dark.jpg" alt="Whole logo">
 				</a><h2>    </h2>
 			</div>
 
@@ -75,7 +75,7 @@
 					<div class="row">
 						<!-- Column #1 -->
 						<div class="col-md-3">
-							<ul>
+							<!--<ul>
 								<li>
 									<a href="index.html">home main</a>
 								</li>
@@ -91,7 +91,7 @@
 								<li>
 									<a href="home-company.html">home company</a>
 								</li>
-							</ul>
+							</ul>-->
 						</div>
 						<!-- .col-md-3 end -->
 
@@ -560,7 +560,7 @@
 			<li>
 				<a href="landing.html">landing page</a>
 			</li>
-		</ul>
+		</ul>-->
 	</li>
 	<!-- li end -->
 	<!-- Blog Menu-->
@@ -629,6 +629,7 @@
 		</ul>
 	</li>
 	<!-- li end -->
+
 
 	<!-- Portfolio Menu -->
 	<li class="has-dropdown mega-dropdown">
@@ -942,9 +943,9 @@
 							</ul>
 						</div>
 						<!-- .col-md-3 end -->
-					/div>
+					</div>
 					<!-- .row end -->
-				<</div>
+				</div>
 				<!-- container end -->
 			</li>
 		</ul>
@@ -1442,14 +1443,14 @@
 				<div class="text--center">
 					<img class="heading--img" src="whole/assets/images/heading/heading-icon.png" alt="heading img"/>
 					<p class="heading--subtitle">Powerful & Creative</p>
-					<h2 class="heading--title">We Are Whole Agency</h2>
+					<h2 class="heading--title">We Are a one stop shop for innovation</h2>
 					<div class="divider--line">
 						<i class="divider divider--1"></i>
 						<i class="divider divider--2"></i>
 						<i class="divider divider--3"></i>
 						<i class="divider divider--4"></i>
 					</div>
-					<p class="heading--desc">We are Whole business, our strategists will help you set an objective and choose your tools, developing a plan that is custom built for your business. We make sure to provides unlimited collection of options, elements & creative shortcode lists. All Whole elements can be easily styled, edited and modified in little easy steps to save your time!</p>
+					<p class="heading--desc">We are Whole business, our strategists will help you set an objective and choose your tools, developing a plan that is custom built for your startup. We make sure to provides unlimited collection of options,support and guidance in light of your startup</p>
 				</div>
 			</div><!-- .col-md-8 end -->
 		</div><!-- .row end -->
@@ -1619,7 +1620,7 @@
 <!-- Testimonial #1
 ============================================= -->
 
-============================================= -->
+
 <section id="banner4" class="skills skills-2 pt-0 pb-0">
 	<div class="container-fluid">
 		<div class="row">
@@ -1727,7 +1728,7 @@
 					</div>
 					<div class="number--content">
 						<h3><span>01.</span> Advice and guides</h3>
-						<p>After all, as described in Design Trends 2015/2016, vision dominates a lot of subconscious interpretation of the world around us that pleasing images create a better user experience!</p>
+						<p>We offer top noth guidance and legal advice from proffessionals to all our members </p>
 					</div>
 				</div><!-- .number-panel end -->
 			</div><!-- .col-md-12 end -->
@@ -1783,7 +1784,7 @@
 					<div class="count-icon">
 						<i class="lnr lnr-users"></i>
 					</div>
-					<div class="counting">2,124</div>
+					<div class="counting">50</div>
 					<div class="count-title">Mentors</div>
 				</div>
 			</div>
@@ -1795,7 +1796,7 @@
 					<div class="count-icon">
 						<i class="lnr lnr-briefcase"></i>
 					</div>
-					<div class="counting">3,128</div>
+					<div class="counting">5</div>
 					<div class="count-title">Service providers</div>
 				</div>
 			</div>
@@ -1807,7 +1808,7 @@
 					<div class="count-icon">
 						<i class="lnr lnr-keyboard"></i>
 					</div>
-					<div class="counting">9,534</div>
+					<div class="counting">3</div>
 					<div class="count-title">Sponsors</div>
 				</div>
 			</div>
@@ -1829,7 +1830,7 @@
 			<div class="col-xs-12 col-sm-12 col-md-12">
 				<div class="heading heading-2 text-center mb-50">
 					<p class="heading--subtitle">Creative & Talented</p>
-					<h2 class="heading--title">Meet The Team</h2>
+					<h2 class="heading--title">Meet The C4D Team</h2>
 					<div class="divider--line">
 						<i class="divider divider--1"></i>
 						<i class="divider divider--2"></i>
@@ -1858,8 +1859,8 @@
 								</div><!-- .memebr-ovelay end -->
 							</div><!-- .member-img end -->
 							<div class="member-info">
-								<h5>Ahmed Abd Alhaleem</h5>
-								<h6>Graphic Designer</h6>
+								<h5>PROF TONNY OMWANSA</h5>
+								<h6>C4D </h6>
 							</div><!-- .member-info end -->
 						</div><!-- .member end -->
 
@@ -1879,8 +1880,8 @@
 								</div><!-- .memebr-ovelay end -->
 							</div><!-- .member-img end -->
 							<div class="member-info">
-								<h5>Ahmed Hassan</h5>
-								<h6>Web Developer</h6>
+								<h5>MARYANNE AKOTH</h5>
+								<h6>C4D</h6>
 							</div><!-- .member-info end -->
 						</div><!-- .member end -->
 
@@ -1900,8 +1901,8 @@
 								</div><!-- .memebr-ovelay end -->
 							</div><!-- .member-img end -->
 							<div class="member-info">
-								<h5>Mohamed Habaza</h5>
-								<h6>Lead Dev Ops</h6>
+								<h5>MRS SELINA OCHUKUT</h5>
+								<h6>C4D</h6>
 							</div><!-- .member-info end -->
 						</div><!-- .member end -->
 
@@ -1921,8 +1922,8 @@
 								</div><!-- .memebr-ovelay end -->
 							</div><!-- .member-img end -->
 							<div class="member-info">
-								<h5>Amr Gamal Sadeq</h5>
-								<h6>Design expert</h6>
+								<h5>CHARLES KATUVA</h5>
+								<h6>C4D</h6>
 							</div><!-- .member-info end -->
 						</div><!-- .member end -->
 
