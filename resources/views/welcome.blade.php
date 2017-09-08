@@ -56,8 +56,8 @@
 				<span class="icon-bar"></span>
 				</button>
 				<a class="logo" href="#">
-					<img class="logo-light" src="whole/assets/images/logo/logo-light.jpg" alt="Whole logo">
-					<img class="logo-dark" src="whole/assets/images/logo/logo-dark.jpg" alt="Whole logo">
+					<img class="logo-light" src="whole/assets/images/logo/logo-light.png" alt="Whole logo">
+					<img class="logo-dark" src="whole/assets/images/logo/logo-dark.png" alt="Whole logo">
 				</a><h2>    </h2>
 			</div>
 
@@ -1459,163 +1459,6 @@
 
 <!-- Portfolio 4 Column
 ============================================= -->
-<section id="portfolio" class="portfolio portfolio-4col pt-0 pb-0">
-	<div class="container-fluid pr-0 pl-0">
-		<div id="portfolio-all" class="row-no-padding">
-			<!-- Portfolio #1 -->
-			<div class="col-xs-12 col-sm-6 col-md-3 portfolio-item filter-print">
-				<div class="portfolio--img">
-					<img src="whole/assets/images/portfolio/grid/3col/1.jpg" alt="Portfolio Item">
-					<div class="portfolio--hover">
-						<div class="portfolio--action">
-							<div class="pos-vertical-center">
-								<div class="portfolio--title">
-									<h4><a href="#">Tobby Branding</a></h4>
-								</div>
-								<div class="portfolio--cat">
-									<a href="#">Branding</a> , <a href="#">branding</a>
-								</div>
-							</div>
-						</div><!-- .Portfolio-action end -->
-					</div><!-- .Portfolio-hover end -->
-				</div><!-- .Portfolio-img end -->
-			</div><!-- . portfolio-item end -->
-
-			<!-- Portfolio #2 -->
-			<div class="col-xs-12 col-sm-6 col-md-3 portfolio-item filter-packaging">
-				<div class="portfolio--img">
-					<img src="whole/assets/images/portfolio/grid/3col/2.jpg" alt="Portfolio Item">
-					<div class="portfolio--hover">
-						<div class="portfolio--action">
-							<div class="pos-vertical-center">
-								<div class="portfolio--title">
-									<h4><a href="#">The Living Branding</a></h4>
-								</div>
-								<div class="portfolio--cat">
-									<a href="#">Branding</a> , <a href="#">Print</a>
-								</div>
-							</div>
-						</div><!-- .Portfolio-action end -->
-					</div><!-- .Portfolio-hover end -->
-				</div><!-- .Portfolio-img end -->
-			</div><!-- . portfolio-item end -->
-
-			<!-- Portfolio #3 -->
-			<div class="col-xs-12 col-sm-6 col-md-3 portfolio-item filter-branding">
-				<div class="portfolio--img">
-					<img src="whole/assets/images/portfolio/grid/3col/3.jpg" alt="Portfolio Item">
-					<div class="portfolio--hover">
-						<div class="portfolio--action">
-							<div class="pos-vertical-center">
-								<div class="portfolio--title">
-									<h4><a href="#">The Living Branding</a></h4>
-								</div>
-								<div class="portfolio--cat">
-									<a href="#">Branding</a> , <a href="#">Print</a>
-								</div>
-							</div>
-						</div><!-- .Portfolio-action end -->
-					</div><!-- .Portfolio-hover end -->
-				</div><!-- .Portfolio-img end -->
-			</div><!-- . portfolio-item end -->
-
-			<!-- Portfolio #4 -->
-			<div class="col-xs-12 col-sm-6 col-md-3 portfolio-item filter-branding">
-				<div class="portfolio--img">
-					<img src="whole/assets/images/portfolio/grid/3col/4.jpg" alt="Portfolio Item">
-					<div class="portfolio--hover">
-						<div class="portfolio--action">
-							<div class="pos-vertical-center">
-								<div class="portfolio--title">
-									<h4><a href="#">The Living Branding</a></h4>
-								</div>
-								<div class="portfolio--cat">
-									<a href="#">Branding</a> , <a href="#">Print</a>
-								</div>
-							</div>
-						</div><!-- .Portfolio-action end -->
-					</div><!-- .Portfolio-hover end -->
-				</div><!-- .Portfolio-img end -->
-			</div><!-- . portfolio-item end -->
-
-			<!-- Portfolio #5 -->
-			<div class="col-xs-12 col-sm-6 col-md-3 portfolio-item filter-print">
-				<div class="portfolio--img">
-					<img src="whole/assets/images/portfolio/grid/3col/5.jpg" alt="Portfolio Item">
-					<div class="portfolio--hover">
-						<div class="portfolio--action">
-							<div class="pos-vertical-center">
-								<div class="portfolio--title">
-									<h4><a href="#">The Living Branding</a></h4>
-								</div>
-								<div class="portfolio--cat">
-									<a href="#">Branding</a> , <a href="#">Print</a>
-								</div>
-							</div>
-						</div><!-- .Portfolio-action end -->
-					</div><!-- .Portfolio-hover end -->
-				</div><!-- .Portfolio-img end -->
-			</div><!-- . portfolio-item end -->
-
-			<!-- Portfolio #6 -->
-			<div class="col-xs-12 col-sm-6 col-md-3 portfolio-item filter-branding">
-				<div class="portfolio--img">
-					<img src="whole/assets/images/portfolio/grid/3col/6.jpg" alt="Portfolio Item">
-					<div class="portfolio--hover">
-						<div class="portfolio--action">
-							<div class="pos-vertical-center">
-								<div class="portfolio--title">
-									<h4><a href="#">Yellow Cards Print</a></h4>
-								</div>
-								<div class="portfolio--cat">
-									<a href="#">Packaging</a> , <a href="#">Print</a>
-								</div>
-							</div>
-						</div><!-- .Portfolio-action end -->
-					</div><!-- .Portfolio-hover end -->
-				</div><!-- .Portfolio-img end -->
-			</div><!-- . portfolio-item end -->
-
-			<!-- Portfolio #7 -->
-			<div class="col-xs-12 col-sm-6 col-md-3 portfolio-item filter-web">
-				<div class="portfolio--img">
-					<img src="whole/assets/images/portfolio/grid/3col/7.jpg" alt="Portfolio Item">
-					<div class="portfolio--hover">
-						<div class="portfolio--action">
-							<div class="pos-vertical-center">
-								<div class="portfolio--title">
-									<h4><a href="#">The Living Branding</a></h4>
-								</div>
-								<div class="portfolio--cat">
-									<a href="#">Branding</a> , <a href="#">Print</a>
-								</div>
-							</div>
-						</div><!-- .Portfolio-action end -->
-					</div><!-- .Portfolio-hover end -->
-				</div><!-- .Portfolio-img end -->
-			</div><!-- . portfolio-item end -->
-
-			<!-- Portfolio #8 -->
-			<div class="col-xs-12 col-sm-6 col-md-3 portfolio-item filter-branding">
-				<div class="portfolio--img">
-					<img src="whole/assets/images/portfolio/grid/3col/8.jpg" alt="Portfolio Item">
-					<div class="portfolio--hover">
-						<div class="portfolio--action">
-							<div class="pos-vertical-center">
-								<div class="portfolio--title">
-									<h4><a href="#">The Living Branding</a></h4>
-								</div>
-								<div class="portfolio--cat">
-									<a href="#">Branding</a> , <a href="#">Print</a>
-								</div>
-							</div>
-						</div><!-- .Portfolio-action end -->
-					</div><!-- .Portfolio-hover end -->
-				</div><!-- .Portfolio-img end -->
-			</div><!-- . portfolio-item end -->
-		</div><!-- .row end -->
-	</div><!-- .container end -->
-</section><!-- #portfolio end -->
 
 <!-- Testimonial #1
 ============================================= -->
@@ -1634,7 +1477,7 @@
 			<div class="col-xs-12 col-sm-12 col-md-6 col-content pl-100">
 				<div class="heading heading-8 mb-50">
 					<h2 class="heading--title">Imagine &amp; Create,<br>We make it so simple!</h2>
-					<p class="heading--desc mb-20">We are Whole business, our strategists will help you set an objective and choose your tools, developing a plan that is custom built for your business.</p>
+					<p class="heading--desc mb-20">We are at your service, our strategists will help you set an objective and choose your tools, developing a plan that is custom built for your startup</p>
 					<div class="divider--line">
 					<i class="divider divider--1"></i>
 					<i class="divider divider--2"></i>
@@ -1645,7 +1488,7 @@
 				<!-- progress 1 -->
 				<div class="progressbar">
 					<div class="progress-title">
-						<span class="title">Marketing</span>
+						<span class="title">Serene Development environment</span>
 						<span class="value">95%</span>
 					</div>
 					<div class="progress">
@@ -1658,7 +1501,7 @@
 				<!-- progress 2 -->
 				<div class="progressbar">
 					<div class="progress-title">
-						<span class="title">Development</span>
+						<span class="title">Support and motivation</span>
 						<span class="value">87%</span>
 					</div>
 					<div class="progress">
@@ -1671,7 +1514,7 @@
 				<!-- progress 3 -->
 				<div class="progressbar">
 					<div class="progress-title">
-						<span class="title">User Experience</span>
+						<span class="title">Mentorship sessions</span>
 						<span class="value">81%</span>
 					</div>
 					<div class="progress">
@@ -1684,7 +1527,7 @@
 				<!-- progress 4 -->
 				<div class="progressbar">
 					<div class="progress-title">
-						<span class="title">Branding</span>
+						<span class="title">Legal advice</span>
 						<span class="value">70%</span>
 					</div>
 					<div class="progress">
@@ -1716,7 +1559,7 @@
 						<i class="divider divider--3"></i>
 						<i class="divider divider--4"></i>
 					</div>
-					<p class="heading--desc">We are Whole business, our strategists will help you set an objective and choose your tools, developing a plan that is custom-built for your business. </p>
+					<p class="heading--desc">We are Whole business, our strategists will help you set an objective and choose your tools, developing a plan that is custom-built for your startup. </p>
 				</div>
 			</div><!-- .col-md-8 end -->
 		</div>
@@ -1738,8 +1581,8 @@
 						<img src="whole/assets/images/banners/5.jpg" alt="image">
 					</div>
 					<div class="number--content">
-						<h3><span>02.</span> Great Solutions</h3>
-						<p>After all, as described in Design Trends 2015/2016, vision dominates a lot of subconscious interpretation of the world around us that pleasing images create a better user experience!</p>
+						<h3><span>02.</span> Serene environment</h3>
+						<p>We offer a peaceful environment condusive for development and launching of startups and ideas!</p>
 					</div>
 				</div><!-- .number-panel end -->
 			</div><!-- .col-md-12 end -->
@@ -1750,7 +1593,7 @@
 					</div>
 					<div class="number--content">
 						<h3><span>03.</span> Support in person</h3>
-						<p>After all, as described in Design Trends 2015/2016, vision dominates a lot of subconscious interpretation of the world around us that pleasing images create a better user experience!</p>
+						<p>We offer support in terms of technical or emotional in regards to your project with high prospects of funding!</p>
 					</div>
 				</div><!-- .number-panel end -->
 			</div><!-- .col-md-12 end -->
